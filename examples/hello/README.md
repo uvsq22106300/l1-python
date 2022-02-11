@@ -4,7 +4,7 @@
 1. Saisissez les lignes suivantes dans le fichier
     ```python
     msg = "hello world"
-    print(msg.capitalize())
+    print(msg.capitalize()export 
     ```
 1. Exécutez le programme
     1. dans l'IDE
